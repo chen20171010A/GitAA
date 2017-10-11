@@ -1,5 +1,0 @@
-2nd time from A
-Hello World
-2nd time from B
-This come from A
-This come from B
