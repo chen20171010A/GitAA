@@ -1,2 +1,3 @@
 fileA created by A
+A
 B
